@@ -2,29 +2,10 @@
   text-align: center;
 }
 
-div {
-  box-sizing: border-box;
-}
-
-.modal {
-  margin-top: 40px;
-  padding: 20px;
-  background-color: #eee;
-  text-align: left;
-}
-
 .list {
   padding-left: 20px;
   text-align: left;
   border-bottom: 1px solid gray;
-}
-
-.black-nav {
-  display: flex;
-  background: black;
-  width: 100%;
-  color: white;
-  padding-left: 20px;
 }
 
 .App-logo {
