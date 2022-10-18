@@ -1,3 +1,7 @@
+## Management System (exercise)
+
+This project was made for exercising to make client management system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
